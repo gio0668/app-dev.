@@ -1,5 +1,4 @@
 # app-dev.
 
-Mobile legends
-Valorant
-Y8
+App Dev ni sir
+SQL ni sir
