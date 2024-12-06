@@ -1,3 +1,3 @@
 # app-dev.
 
-Plaza
+Manalo sa Lotto at magkabahay ng malaki
